@@ -13,8 +13,8 @@ def pregunta_02():
     Hello cruel world!
 
     """
-
-    return
+    rta = str('Hello cruel world!')
+    return rta
 
 
 if __name__ == "__main__":
